@@ -1,18 +1,5 @@
 import java.util.*;
 
-//good video explaining huffman: https://www.youtube.com/watch?v=dM6us854Jk0
-
-/**
- * Although this class has a history of several years,
- * it is starting from a blank-slate, new and clean implementation
- * as of Fall 2018.
- * <P>
- * Changes include relying solely on a tree for header information
- * and including debug and bits read/written information
- *
- * @author Geoff Gaugler and Ashley Lanzas
- */
-
 public class HuffProcessor {
 
 	public static final int BITS_PER_WORD = 8;
